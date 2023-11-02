@@ -11,3 +11,5 @@ Here is my version of the challenge. My code should demonstrate my understanding
 README template courtesy of [DomPizzie on GitHub ](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc#project-title)
 
 Some pieces of code were used and/or modified from code courtesy of [Shrawantee on GitHub](https://github.com/shrawantee/VBA-Scripting---Stock-Market-Analysis/blob/master/HW2_Hard_DS.vbs)
+
+Collaborated with classmates Cory (Chapman) Houston, Amanda Hinkle, and Barb Rupps on some pieces of code.
