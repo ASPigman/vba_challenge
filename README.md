@@ -55,4 +55,5 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 README template courtesy of [DomPizzie on GitHub ](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc#project-title)
-Some pieces of code were used and/or modified from code courtesy of [Shrawantee at GitHub](https://github.com/shrawantee/VBA-Scripting---Stock-Market-Analysis/blob/master/HW2_Hard_DS.vbs)
+
+Some pieces of code were used and/or modified from code courtesy of [Shrawantee on GitHub](https://github.com/shrawantee/VBA-Scripting---Stock-Market-Analysis/blob/master/HW2_Hard_DS.vbs)
