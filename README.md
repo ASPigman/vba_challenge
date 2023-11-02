@@ -1,10 +1,10 @@
-# Project Title
+# VBA Challenge
 
-Simple overview of use/purpose.
+You will find an Excel file containing the analyzed annual stock data and files containing the VBA code used to analyze the data.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+An in-depth paragraph about your project and overview of use. Here is my version of the challenge. My code should demonstrate my understanding of VBA syntax using the four fundamental building blocks of code. I effectively use variables, functions, loops, and conditionals to summarize stock data for quick analysis.
 
 ## Getting Started
 
