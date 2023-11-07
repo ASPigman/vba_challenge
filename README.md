@@ -12,4 +12,6 @@ README template courtesy of [DomPizzie on GitHub ](https://gist.github.com/DomPi
 
 Lines 134 - 148 were modified from code courtesy of [Shrawantee on GitHub](https://github.com/shrawantee/VBA-Scripting---Stock-Market-Analysis/blob/master/HW2_Hard_DS.vbs)
 
-Collaborated with classmates Cory (Chapman) Houston and Barb Rupps to determine how to pull open and close price for each unique ticker values.
+Collaborated with classmates Cory (Chapman) Houston, Ramkumar Jothis, and Barb Rupps to determine how to pull open and close price for each unique ticker values.
+
+Used [Microsoft](https://support.microsoft.com/en-gb/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0) to add in the ability to loop through worksheets in a workbook.
