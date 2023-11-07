@@ -1,6 +1,6 @@
 # VBA Challenge
 
-You will find an Excel file containing the analyzed annual stock data and files containing the VBA code used to analyze the data.
+You will find an Excel file containing the analyzed annual stock data and a file containing the VBA code used to analyze the data.
 
 ## Description
 
@@ -12,4 +12,4 @@ README template courtesy of [DomPizzie on GitHub ](https://gist.github.com/DomPi
 
 Some pieces of code were used and/or modified from code courtesy of [Shrawantee on GitHub](https://github.com/shrawantee/VBA-Scripting---Stock-Market-Analysis/blob/master/HW2_Hard_DS.vbs)
 
-Collaborated with classmates Cory (Chapman) Houston, Amanda Hinkle, and Barb Rupps on some pieces of code.
+Collaborated with classmates Cory (Chapman) Houston and Barb Rupps on some pieces of code.
